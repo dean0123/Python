@@ -8,6 +8,7 @@
     Command Like 
     program -> anaconda prumpt 
     $ conda list -> to show installed package 
+    $ conda list pandas -> show pandas package info
     $ jupyter notebook  -> to start web based python editor run tool
     $ edit .jupyter/jupyter...config...py -> add c.notebook.browser put PATH/chrome .... for default broswer
     
