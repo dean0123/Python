@@ -11,4 +11,7 @@
     $ jupyter notebook  -> to start web based python editor run tool
     $ edit .jupyter/jupyter...config...py -> add c.notebook.browser put PATH/chrome .... for default broswer
     
-2. 
+2. Install Notebook
+
+# Notebook
+1. 
