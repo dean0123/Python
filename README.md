@@ -14,4 +14,15 @@
 2. Install Notebook
 
 # Notebook
-1. 
+1. $ jupyter notebook list -> show running notebook and ports 
+2. in Notebook, short cut keys are
+* Green Bar
+- Control - Enter -> Run current cell
+- Shift - Enter -> Run current cell and go to next cell
+
+* Blue Bar
+- x delete cell
+- a add cell aboe
+- b add cell below
+- M change code mote to Markdown Mode
+- Y change cell to Code mode 
